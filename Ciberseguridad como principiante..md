@@ -157,15 +157,18 @@ Hay miles de plataformas que te permiten hacer pruebas de ciberseguridad de mane
 - [TryHackMe](https://tryhackme.com)
 - [OS Proving Grounds](https://www.offsec.com/labs/)
 - [CodingDojo](https://codingdojo.org)
+
 También puedes obtener projects de código libre y que por lo general te permiten checar por vulnerabilidades en su código:
 - [Ubuntu](https://github.com/ubuntu)
 - [WordPress](https://github.com/WordPress/WordPress)
 - [pfSense](https://github.com/pfsense/pfsense)
+ 
 Si deseas hacer pruebas de seguridad en aplicaciones cotidianas, y donde te puedan pagar por ellas, plataformas de bug bounty como:
 - [HackerOne](https://www.hackerone.com)
 - [BugCrowd](https://www.bugcrowd.com)
 - [YesWeHack](https://www.yeswehack.com)
 - [Intigriti](https://www.intigriti.com)
+ 
 Te permiten darte el lujo de hacer pruebas en aplicaciones reales.
 
 ## Final thoughts 💭

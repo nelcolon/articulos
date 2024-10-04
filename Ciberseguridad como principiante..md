@@ -40,13 +40,17 @@ Bien, estás en buenísimo camino. Ahora hablemos un poquito de qué se requiere
 
 ### Sistema Operativos.
 No hay mejor forma de aprender, que utilizarlos. Por suerte, todos se pueden virtualizar. 
+
 Para descargar Windows, y Windows Server: 
 - Windows 11 : https://www.microsoft.com/en-us/software-download/windows11
 - Windows Server: https://info.microsoft.com/ww-landing-windows-server-2022.html
+
 Para Linux, hay muchas distros (si empezamos a mencionarlas, no acabamos nunca), pero podemos resumir cuáles conocer en base a las más populares, como:
+
 - Ubuntu: https://ubuntu.com/download/desktop
 - Fedora: https://fedoraproject.org/workstation/download
 - Red Hat: https://developers.redhat.com/products/rhel/download
+
 Para MacOs:
 - MacOs iso files: https://archive.org/details/macos_iso
 
@@ -61,12 +65,15 @@ Y en caso de que quieran utilizar contenedores:
 
 ### Redes y protocolos.
 Para empezar a comprender cómo funcionan las redes y los protocolos, es fundamental estudiar el [modelo OSI](https://es.wikipedia.org/wiki/Modelo_OSI), una referencia clave que desglosa la comunicación en redes en siete capas, desde la capa física hasta la capa de aplicación.
+
 #### Recursos recomendados:
-Cursos como los impartidos por Cisco, específicamente el de CCNA (Cisco Certified Network Associate): https://www.netacad.com/courses/ccna-introduction-networks?courseLang=en-US
-Libros como el de : Computer Networking: A Top-Down Approach
-Blogs como el de : https://blog.ipspace.net
+
+- Cursos como los impartidos por Cisco, específicamente el de CCNA (Cisco Certified Network Associate): https://www.netacad.com/courses/ccna-introduction-networks?courseLang=en-US
+- Libros como el de : Computer Networking: A Top-Down Approach
+- Blogs como el de : https://blog.ipspace.net
 
 ### Modelos de Seguridad (Confidencialidad, Integridad y Disponibilidad)
+
 La trifecta o modelo CIA se refiere a los tres principios fundamentales que guían la seguridad de la información:
 1. **Confidencialidad**: Garantizar que la información solo es accesible para los usuarios dueños de esa información. (Ataques que afectan la confidencialidad: [Broken Authentication](https://owasp.org/www-project-top-ten/2017/A2_2017-Broken_Authentication), [IDORs](https://portswigger.net/web-security/access-control/idor) y otros)
 2. **Integridad**: Asegurar que la información o data no puede ser alterada, borrada o agregada por usuarios sin permisos suficientes. (Ataques que afectan la integridad: [SQL Injection.](https://portswigger.net/web-security/sql-injection))
@@ -77,6 +84,7 @@ Una forma rápida de checar qué tanto impacto tiene una vulnerabilidad es verif
 
 ### Programación y Scripting.
 La programación y el scripting son esenciales para nuestras tareas como profesionales de la ciberseguridad, ya que nos permiten automatizar tareas, analizar vulnerabilidades y responder rápidamente a incidentes. Para temas de scripting, algunos lenguajes clave son:
+
 - **Bash**: Es fundamental para automatizar tareas en sistemas basados en Unix/Linux. Con Bash, puedes escribir scripts para manejar archivos, gestionar usuarios, monitorear sistemas y mucho más.
 La biblia de Bash se puede encontrar aquí: https://www.gnu.org/software/bash/manual/bash.html
 
@@ -92,6 +100,7 @@ Para programación:
 	- **Go**: https://go.dev/doc/tutorial/getting-started
 	- **C**: https://www.w3schools.com/c/
 	- **C++**: https://www.w3schools.com/cpp/
+
 - **Java**: Amplia presencia en aplicaciones web y móviles. Conocer Java te permite analizar vulnerabilidades en aplicaciones empresariales.
 	- **Tutorial**: https://www.javatpoint.com/java-tutorial
 
@@ -176,16 +185,17 @@ Al final, esta guía no es perfecta, ni es una biblia de los temas que requieres
 
 Lo único que deseamos con este documento es mostrarte que tu respuesta de `Cómo empezar en la ciberseguridad` no cuenta con una respuesta simple, más bien, con una respuesta tallada a tu medida y a tus condiciones. 
 
-`Por qué es mejor ser disciplinado que motivado?`
+### Por qué es mejor ser disciplinado que motivado?
 
 En caso de preguntarte por qué no utilizo la palabra motivación en este artículo, es simple. Porque la motivación se va tan rápido como llega. Pero la disciplina, no. Por eso les pido que antes de ser un ingeniero de ciberseguridad, desarrolles el carácter de la disciplina requerido para avanzar en esta profesión.
 
-`Qué herramienta me recomiendan para XXX?`
+### Qué herramienta me recomiendan para XXX?
 
 No hago mención en este artículo respecto a qué herramientas utilizar, la razón es simple. Mientras más vas aprendiendo de los conceptos y a entender cómo interactúan entre ellos, descubrirás qué herramienta funciona mejor para ese caso en específico.
 
 También ayuda para desarrollar las habilidades de `problem solving` o en buen dominicano, resolver.
 
+--- 
 ##### Autores/as:
 [Nelson Colón](ncolonmeran@gmail.com)
 

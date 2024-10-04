@@ -177,9 +177,11 @@ Al final, esta guía no es perfecta, ni es una biblia de los temas que requieres
 Lo único que deseamos con este documento es mostrarte que tu respuesta de `Cómo empezar en la ciberseguridad` no cuenta con una respuesta simple, más bien, con una respuesta tallada a tu medida y a tus condiciones. 
 
 `Por qué es mejor ser disciplinado que motivado?`
+
 En caso de preguntarte por qué no utilizo la palabra motivación en este artículo, es simple. Porque la motivación se va tan rápido como llega. Pero la disciplina, no. Por eso les pido que antes de ser un ingeniero de ciberseguridad, desarrolles el carácter de la disciplina requerido para avanzar en esta profesión.
 
 `Qué herramienta me recomiendan para XXX?`
+
 No hago mención en este artículo respecto a qué herramientas utilizar, la razón es simple. Mientras más vas aprendiendo de los conceptos y a entender cómo interactúan entre ellos, descubrirás qué herramienta funciona mejor para ese caso en específico.
 
 También ayuda para desarrollar las habilidades de `problem solving` o en buen dominicano, resolver.
